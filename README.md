@@ -100,7 +100,10 @@ Execute the program
      
    </body>
 </html>
-
+```
 ## OUTPUT 
 
-![OUTPUT](https://github.com/21500125/timetable/blob/main/TIMETABLE.png?raw=true)
+![OUTPUT](./timetable.jpeg)
+
+## RESULT
+Thus the Web page is created to display your Time table
